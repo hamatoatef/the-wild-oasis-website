@@ -2,6 +2,10 @@
 
 Welcome to the Wild Oasis Hotel Customer-Facing Website repository! This project aims to provide a seamless online experience for potential and actual guests of the Wild Oasis Hotel. The website allows guests to explore the hotel, get detailed information about each cabin, make reservations, and manage their bookings.
 
+## Demo 
+[the wild oasis website.webm](https://github.com/hamatoatef/the-wild-oasis-website/assets/88297240/1f88df65-19d9-4df7-bada-3609b4d9fb8d)
+
+
 ## Table of Contents
 
 - [Features](#features)
